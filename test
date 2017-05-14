@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+
+
+apt-get install fastjar -y
+apt-get install gcj-4.8-jdk -y
+apt-get install openjdk-7-jdk -y
+apt-get install gcj-4.6-jdk -y
+apt-get install openjdk-6-jdk -y
